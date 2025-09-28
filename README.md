@@ -1,4 +1,4 @@
-## Oi! Jediel Ribeiro aqiu 👋
+## Oi! Jediel Ribeiro aqui 👋
 
 Sou um desenvolvedor apaixonado por criar e aprimorar soluções que resolvam problemas práticos do dia a dia. Estou em um momento de **transição de carreira** e em busca da minha primeira oportunidade como **Desenvolvedor Web Full-Stack**.
 
